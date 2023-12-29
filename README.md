@@ -1,1 +1,2 @@
-# react-auth-practice
+Data Structure and Algorithms Practice
+
